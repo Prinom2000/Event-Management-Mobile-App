@@ -35,19 +35,19 @@ This is a mobile application developed as part of my **Mobile App Development** 
 ## 📸 Screenshots
 
 ### ✅ Sign Up Screen
-[image](https://github.com/user-attachments/assets/6c357b08-0826-4267-abc2-99c5bd37cd97)
+![image](https://github.com/user-attachments/assets/6c357b08-0826-4267-abc2-99c5bd37cd97)
 
 ### ✅ Log In Screen
-![Log In]![image](https://github.com/user-attachments/assets/bd5e21fb-9549-4fde-8a4c-6bd69b30e784)
+![image](https://github.com/user-attachments/assets/bd5e21fb-9549-4fde-8a4c-6bd69b30e784)
 
 ### ✅ Add Event Screen
-![New Event]![image](https://github.com/user-attachments/assets/092e030b-91c8-4947-bef8-ddde0f3b28c5)
+![image](https://github.com/user-attachments/assets/092e030b-91c8-4947-bef8-ddde0f3b28c5)
 
 ### ✅ Upcaomig Event
-![Add Event]![image](https://github.com/user-attachments/assets/3b370806-b909-4089-b421-41937afde3bb)
+![image](https://github.com/user-attachments/assets/3b370806-b909-4089-b421-41937afde3bb)
 
 ### ✅ Edit Event
-![Edit Event]![image](https://github.com/user-attachments/assets/4a132a62-5975-496f-8078-e6b390126792)
+![image](https://github.com/user-attachments/assets/4a132a62-5975-496f-8078-e6b390126792)
 
 ---
 
