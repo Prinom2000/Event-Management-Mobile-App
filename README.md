@@ -35,7 +35,7 @@ This is a mobile application developed as part of my **Mobile App Development** 
 ## 📸 Screenshots
 
 ### ✅ Sign Up Screen
-![Sign Up]![image](https://github.com/user-attachments/assets/6c357b08-0826-4267-abc2-99c5bd37cd97)
+[image](https://github.com/user-attachments/assets/6c357b08-0826-4267-abc2-99c5bd37cd97)
 
 ### ✅ Log In Screen
 ![Log In]![image](https://github.com/user-attachments/assets/bd5e21fb-9549-4fde-8a4c-6bd69b30e784)
