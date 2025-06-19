@@ -64,5 +64,5 @@ This is a mobile application developed as part of my **Mobile App Development** 
 
 ### 🧑‍💻 Author
 Prinom Mojumder
-TA at EWU | Problem Solving | Enthusiast in AI, ML, Software engineering, Android App Development | Robotics & IOT Aficionado.📧 prinom@example.com (replace with actual email)
+TA at EWU | Problem Solving | Enthusiast in AI, ML, Software engineering, Android App Development | Robotics & IOT Aficionado.📧 prinommojumder19@gmail.com
 🌐 GitHub : https://github.com/Prinom2000
