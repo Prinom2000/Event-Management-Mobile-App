@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFff88">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00ff00"
+        android:gravity="center_horizontal"
+        android:padding="16dp"
+        android:paddingBottom="16dp"
+        android:text="Class Summary"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="16dp">
+
+        <TableRow>
+            <TextView
+                android:text="Name"
+                android:textStyle="bold"
+                android:textSize="16dp"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:hint="Enter ur name"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="ID"
+                android:textStyle="bold"
+                android:textSize="16dp"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:hint="Enter ur ID"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="16dp">
+            <TextView
+                android:text="Course"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:layout_gravity="center_vertical"/>
+            <RadioGroup
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_weight="1">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CSE477"/>
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CSE488"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CSE475"/>
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="CSE479"/>
+                </LinearLayout>
+            </RadioGroup>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="16dp"
+            >
+            <TextView
+                android:text="Type"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:layout_gravity="center_vertical"/>
+            <RadioGroup
+                android:orientation="horizontal"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lacture"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lab"/>
+
+
+
+
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Date"
+                android:textStyle="bold"
+                android:textSize="16dp"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:hint="Date"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Lactuer"
+                android:textStyle="bold"
+                android:textSize="16dp"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:hint="Enter lacture number"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Topic"
+                android:textStyle="bold"
+                android:textSize="16dp"/>
+            <EditText
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:hint="Enter topic title"/>
+        </TableRow>
+
+        <TextView
+            android:layout_marginTop="16dp"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:text="Summery of the lecture"/>
+        <EditText
+            android:lines="5"
+            android:hint="Insert the text of lecture in short."
+            />
+
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#888888"
+        android:orientation="horizontal">
+     <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Cancle"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="save"/>
+    </LinearLayout>
+
+</LinearLayout>
